@@ -31,5 +31,5 @@ app.get('/scrape', function(req, res){
 })
 
 app.listen('8080')
-console.log('Magic happens on port 8081');
+console.log('Port 8080');
 exports = module.exports = app;
